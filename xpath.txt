@@ -1,0 +1,5 @@
+//ol[@id='notesList']//li[position() mod 2 = 0]
+//div[@class='manyLines']//p
+//button | //input[@type='button']
+//a[contains(text(), 'CSS')]
+//*[@href='#']

@@ -77,6 +77,24 @@ li:last-child {
   border-bottom: solid green 5px;
 }
 
-li:nth-of-type(3n + 1) {
-  background-color: grey
+li:nth-of-type(2n + 1) {
+  background-color: rgb(240, 255, 108)
+}
+
+/* Home Work */
+li:nth-of-type(2n + 2) {
+  background-color: rgb(94, 94, 255)
+}
+
+.manyLines > p {
+  background-color:aquamarine
+}
+
+button,input[type='button'] {
+  background-color: blueviolet;
+  color:white
+}
+
+[href='#']{
+  background-color: orange;
 }
